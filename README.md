@@ -15,13 +15,6 @@ The puzzles are progresively getting more and more difficult to test your logica
 - Autosave is currently the only option to save your progress
 - Simple level loading system
 
-
-# Things to come:
-- More levels
-- Better saving/loading system
-- More puzzles/mechanics
-- Better lighting
-
 # Preview
 
 ![](Images/GamePlay.PNG )
