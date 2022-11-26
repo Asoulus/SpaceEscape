@@ -1,0 +1,6 @@
+bool _barier;
+
+void BarierControl()
+{
+	_barier = true;
+}
