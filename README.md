@@ -36,15 +36,15 @@ The puzzles are progresively getting more and more difficult to test your logica
 
 ![](Images/Laboratory.PNG)
 
-![](Images/Lockers.PNG)
+![](Images/Lockers.png)
 ---
 
 ### __Console__
-![](Images/Console.PNG)
+![](Images/Console.png)
 ---
 
 ### __WireBox__
-![](Images/WireBox.PNG)
+![](Images/WireBox.png)
 
 ![](Images/Gates.PNG)
 
