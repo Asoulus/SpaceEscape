@@ -21,11 +21,12 @@ The puzzles are progresively getting more and more difficult to test your logica
 - Devices behaviours can be altered via commands on connected computer
 - All devices have to be powered in order to be used (indicated by blue or red colors)
 - In order to restore power player has to solve a "wirebox" puzzle which contains logic gates
+- Levels design with gravity manipulation in mind - entrences on the walls or in the ceiling
 
 # Current devices:
+- Graviton (can change player's gravity depending on prior console command)
 - Doors
 - Elevators
-- Graviton (can change player's gravity depending on prior console command)
 
 # Preview
 
@@ -41,6 +42,10 @@ The puzzles are progresively getting more and more difficult to test your logica
 
 ### __Console__
 ![](Images/Console.png)
+---
+
+### __Graviton device__
+![](Images/Graviton.PNG)
 ---
 
 ### __WireBox__
