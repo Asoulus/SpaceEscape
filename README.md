@@ -1,6 +1,6 @@
 # SpaceEscape
 
-This game was created as a part of my thesis for Politechnika Częstochowska.
+This game was created as a part of my engineer's thesis for Politechnika Częstochowska.
 
 # Description
 
